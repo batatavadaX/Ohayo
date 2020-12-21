@@ -1,0 +1,6 @@
+pyrogram
+requests
+TgCrypto
+gunicorn
+Flask
+Flask-AutoIndex
